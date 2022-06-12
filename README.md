@@ -28,8 +28,8 @@
 
 ## Connect with me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HansakaJS) 
 <p align="left">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HansakaJS) 
 <a href="https://linkedin.com/in/hansaka-sudusinghe-3b8677215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansaka-sudusinghe-3b8677215" height="30" width="40" /></a>
 <a href="https://fb.com/hansaka.jayawarna.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hansaka.jayawarna.3" height="30" width="40" /></a>
 <a href="https://instagram.com/h_a_n_s_a_k_a_9353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_a_n_s_a_k_a_9353" height="30" width="40" /></a>
