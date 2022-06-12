@@ -8,8 +8,7 @@
 - 📫 How to reach me: **hansakajayawarna@gmail.com**
 - ⚡ Fun fact: **I watch movies and play games**
 
-<center>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )</center>
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )
 ## My Github Status
 
 ![Profile views](https://gpvc.arturio.dev/IT21279584 )
