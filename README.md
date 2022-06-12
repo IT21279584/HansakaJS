@@ -8,7 +8,7 @@
 - 📫 How to reach me: **hansakajayawarna@gmail.com**
 - ⚡ Fun fact: **I watch movies and play games**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )
+<center>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )</center>
 
 ## My Github Status
 
