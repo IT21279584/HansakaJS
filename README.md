@@ -10,6 +10,8 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )
 
+## My Github Status
+
 ![Profile views](https://gpvc.arturio.dev/IT21279584 )
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IT21279584 )
