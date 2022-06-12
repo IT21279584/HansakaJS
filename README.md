@@ -2,10 +2,10 @@
 
 **About Me**
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning BSc (Hons) in Information Technology  
-- 👯 I’m looking to collaborate on OpenSource Projects 
-- 📫 How to reach me: hansakajayawarna@gmail.com 
-- ⚡ Fun fact: I watch movies and play games 
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology** 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 How to reach me: **hansakajayawarna@gmail.com**
+- ⚡ Fun fact: **I watch movies and play games**
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )
 
 ![Profile views](https://gpvc.arturio.dev/IT21279584 )
