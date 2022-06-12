@@ -17,7 +17,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HansakaJS )
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
