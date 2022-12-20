@@ -15,7 +15,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/HansakaJS )
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HansakaJS )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaJS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
