@@ -13,7 +13,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaJS&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/HansakaJS )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaJS)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,3 +44,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
+
+![Profile views](https://gpvc.arturio.dev/HansakaJS )
